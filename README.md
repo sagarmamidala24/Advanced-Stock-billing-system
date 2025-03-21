@@ -6,7 +6,7 @@ product: List to store the names of products.
 
 price: List to store the price of each product.
 
-Quantity: List to store the quantity of each product.
+Quantity: List to store the quantity of each product..
 
 gst_rate: Variable to store the GST rate, initialized to 0.
 
